@@ -1,0 +1,2193 @@
+CHAT
+
+Debbie contacted because they needed assistance with: item not received
+
+The Resolution provided to the customer: issued refund, out of stock for replacement 
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 15% discount if reorders
+ 
+Escalated the issue to:
+ 
+Incident #: $incidents.ref_no
+
+
+Are there any other questions I can help you with today?
+
+
+I have not heard from you in a few moments. Are you still with me?
+
+
+Thank you. For security purposes can you please provide your full billing address?
+
+
+Thank you. One moment please, while I research this issue.
+
+
+Thank you. Unfortunately, that address does not match with the one on this order. Perhaps you have an additional billing address?
+
+Unfortunately, I have not heard from you in a while. I am going to close this chat for now. You may receive a brief email survey regarding your experience with me today, and I would appreciate your feedback. If you need any help in the future, please, do not hesitate to contact us again.
+
+Yes, I am. I apologize for the latency, please bear with me as I am chatting with multiple customers at the same time. In advance, thank you for all your patience. I do really appreciate it. 
+
+
+FIRE EMBLEM
+
+see, I'm sorry to learn that you experienced this problem with our website. Allow me inform you that we are experiencing some trouble with this preorder version of Fire Emblem. in this case, I would advise you to call us at 1-800-966-6546, and we will be more than happy to assist you in placing your online order. Unfortunately, only phone agents are authorized to place orders due to security reasons, otherwise, I'd be glad to assist you with that.
+
+
+contacted because they needed assistance with: Fire Emblem Preorder issue
+ 
+The Resolution provided to the customer: advised to call us to assist placing order 
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+12. cstuck:
+
+Thanks for your patience. After reviewing your account, it seems that due to an error in our system, your order didn't process correctly. Due to this, a request to have your order pushed through processing has been sent to the fulfillment center. Please allow 48 hours to receive a confirmation email with the most up to date status of your order. In order to amend this inconvenience we will be issuing a 15% discount to your order as well. 
+
+13. chelp1:
+
+Are there any other questions I can help you with?
+
+14. chelp2:
+
+Is there anything else that I can assist you with?
+
+15. chelp3:
+
+Please let me know if there are any other questions that I can answer for you. 
+
+18. Hotkey: border (when is placed in backorder)
+
+At this time, it appears that (insert item) is on backorder. This means that the shipping center nearest you does not have that item. Rest assured, the system is checking other centers for the item so that we can fulfill it for you.
+
+19. Hotkey: border2 (when the item is available)
+
+(Insert item) is currently in stock on the website, so it will most likely be fulfilled from a different center within 3-10 business days. If another center is not located within 10 business days, the order will cancel. We truly appreciate your patience during that time.
+
+20. Hotkey: border3 (when the item is out stock)
+
+(Insert item) is currently out of stock on the website. However, the system will check other centers for 10 days to see if it can be fulfilled. After 10 business days, the system will automatically cancel the order if another center is not found. We truly appreciate your patience during that time.
+
+21. Hotkey: cnocall (when they want you to call them)
+
+Unfortunately, as a chat agent, I am unable to make outbound calls. However, I'd be happy to provide you with the number (Insert store/carrier/partner) can be reached at (phone number).
+
+Replace customized item
+
+In this case since customized items cannot be replaced due to the personalization options not been saved in our records after the order is processed we can issue a refund and you may reorder your stocking in the color that you need it.
+
+
+Order not found
+
+Thank you for your patience. Allow me inform you that I have reviewed our records but unfortunately, I was unable to locate your order. This leads to 2 possibilities. Either your order is still processing that is why it does not show in our records and you have not received your confirmation email or your order did not process properly and will be cancelled within the next 10 days. The actual charge for this order would not happened since it was not shipped and the authorization hold in your card for this order will be removed within 3 days after being cancelled.
+
+Gift Cards price error
+
+Thank you. Allow me inform you that unfortunately, your order was cancelled since the Gift Cards had the incorrect price. Gift Cards prices are static and they were shown with a lower price due to a system error. In order to amend this inconvenience we can issue a $15 eGift Card, please allow.
+
+
+contacted because they needed assistance with: Gift Cards cancelled, price error
+ 
+The Resolution provided to the customer: advised order was cancelled due to price error, advised eGift Card will be issued 
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: Supervisor
+ 
+Incident #: $incidents.ref_no
+
+INFO
+
+contacted because they needed assistance with: issue already addressed by previous agent 
+
+The Resolution provided to the customer: No answered
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to:
+ 
+Incident #: $incidents.ref_no
+
+
+Hi $contacts.name.first,
+
+. We’re happy to assist with your request, but we need additional information in order to assist you.
+
+Please provide the following:
+
+• Order Number:
+• Item Name(s):
+• Email address on Walmart.com account:
+• How can we help?
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+contacted because they needed assistance with: 
+The Resolution provided to the customer: requested information
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+Info late to arrive
+
+Hi $contacts.name.first,
+
+We certainly apologize that you have not received your items on the date expected. We’re happy to assist with your request, but we need additional information in order to assist you.
+
+Please provide the following:
+
+• Order Number:
+• Item Name(s):
+
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: item not received
+ 
+The Resolution provided to the customer: requested more information
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+Empathy 
+
+I'm sorry to learn that your order arrived incomplete. I'd be glad to assist you with that.
+
+Once again, our deepest apologies for such situation experienced with your order. Rest assured that our standard of services is much higher of what we have displayed on this occasion. We hope to have the chance to be able to meet your expectations in the near future.
+
+
+We’re deeply sorry for the hassle this inconvenience has caused you.
+
+
+Unfortunately, since Walmart.com and Walmart stores have separate systems we are unable to search their records for the reason of this refund.
+
+In order to amend this inconvenience with the delivery of your item  we'd like to offer that, if still need your item , you may reorder a similar item  that suits your needs and we will issue a 15% discount. If you do place a new order for a similar item please contact us back with your order number so we can issue this discount.
+
+Unfortunately, due to the high volume of orders we're handling at this time there is a slight delay on the processing of some orders.
+Delivery Issues
+Lost After Delivery 
+
+Hi $contacts.name.first,
+
+OPTION 1 - Signed for (all items)
+
+I sincerely apologize to learn that you have not received your package. I've tracked the package, and our records show that it was delivered and signed for. You can check the tracking information provided by our carrier by clicking here: [Insert link]. Please check with other members of your household, neighbors, or anyone else who may have accepted the delivery and may have the package in their possession. Otherwise, please contact your carrier or dispute the charges with your financial institution.
+
+OPTION 2 - Not signed for (high fraud item)
+
+We certainly apologize that you have not received your item. We are indeed  aware you didn't receive it, but it turns out that our records show this package was delivered, so due to the nature of the missing item, we will need to investigate before we can issue a refund or a replacement.
+
+In order to facilitate this process, please file a police report and email a copy to executiveescalations@walmart.com. Please include your order number and contact information when sending the police report to us. Once we receive your police report, our escalation team should respond within 7 business days.
+
+OPTION 3 - not signed for (regular item)
+
+I certainly apologize you haven't received your item. Please let us know whether you'd like us to send a replacement for your item or if you want a refund. If you select replacement, please be advised that replacement orders must be for the same item, and if in case the item is no longer available, a refund will automatically be issued to the original form of payment. Refunds will process to the original form of payment within 7 days of initiating the refund.
+
+[ONLY IF ITEM IS OVER $7] If you happen to receive your original item after we've issued a refund or replacement, please email us again. At that time, we could have the item picked up, or if you would like to keep the item, we could arrange to bill you again with your permission.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+Lost in Transit or no movement
+
+Hi $contacts.name.first,
+
+Thank you for bringing this matter to our attention. We certainly apologize that you have not received your order yet.
+
+Thank you for your patience. I have tracked your order, and there is no movement on the package at this time. Sometimes this means that the package has been misplaced, but most of the time the package is still on the way but simply has not been scanned at its last location.
+
+OPTION 1 - EDD today or in the future 
+
+Most packages arrive on time, even if they are missing tracking information. Because the estimated delivery date has not passed, we advise you to wait until the end of day on [**INSERT EDD] to see if the package arrives. If it hasn't arrived by the end of the day on [INSERT EDD*], please allow three additional days to see if the package is simply running a bit late. If the package does not arrive by that time or you are unable to wait the three additional days, contact us and let us know if you would like a refund or replacement.
+
+If you select replacement at that time, please be advised that replacement orders must be for the same item, and if in case the item is no longer available, a refund will automatically be issued to the original form of payment. Refunds will process to the original form of payment within 7 days of initiating the refund. 
+
+OPTION 2 - EDD in the past (less than 3 days past EDD) 
+
+Because most packages eventually arrive, even if they are a few days late, we'd like to ask if you are able to wait an additional 3 days to see if the original package arrives. If you do not wish to wait, please let us know if you prefer a refund or a replacement.
+
+If you select replacement at that time, please be advised that replacement orders must be for the same item, and if in case the item is no longer available, a refund will automatically be issued to the original form of payment. Refunds will process to the original form of payment within 7 days of initiating the refund. 
+
+OPTION 3 - EDD in the past (more than 3 days past EDD)
+
+However, because your estimated delivery date has passed, we can process a refund or a replacement for your item. Which would you prefer?
+
+If you select replacement, please be advised that replacement orders must be for the same item, and if in case the item is no longer available, a refund will automatically be issued to the original form of payment. Refunds will process to the original form of payment within 7 days of initiating the refund. 
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with: order not received
+ 
+The Resolution provided to the customer: offered refund or replacement
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Replace order
+
+Hi $contacts.name.first,
+
+We sincerely apologize for the inconvenience with ***ISSUE***. At your request, we have replaced the ***ITEM***  in your order.
+
+OPTION 1: (AFFIDAVIT NEEDED - regular account) In order to complete your replacement request, we need you to sign an agreement, also called an affidavit, promising that you will return your item(s)OR that you did not receive the item(s). We've sent an email with a link to this agreement to the email address listed on your Walmart.com account. If you haven't received the email, you may sign into your Walmart.com account to complete the agreement.
+
+To find your agreement in your account:
+
+1) Sign in to "My Account" 
+2) Click "Order History" and select the order you want to return 
+3) Click the link in the order to view the agreement 
+4) Click Submit to agree to the agreement
+
+The agreement must be signed within 7 days or your request will be canceled and your replacement will not be processed. You will receive an email with your new order number shortly after signing your agreement. As soon as your replacement order ships, you can track it online at Walmart.com by clicking "Track My Orders" at the top of our home page.
+
+[ONLY IF ITEM(S) ARE EXPECTED BACK] Regarding your return, you have 30 days to return the original item once you agree to the affidavit. If we do not receive the item within that time, you will be charged for the replacement. Upon signing your agreement via email, you will be given a link to prepaid shipping label. Please print this label and put it on the package that you are returning. Return packages can be taken to any FedEx or USPS location. Please note that you will not be able to return your item in store after your agreement has been signed.
+
+OPTION 2: (NO AFFIDAVIT NEEDED) You will receive an email with your new order number shortly. As soon as your order ships, you can track it online at Walmart.com by clicking "Track My Orders" at the top of our home page.
+
+At this time there is no estimated time of delivery yet since the order just generated. Please allow for your confirmation email to arrive with the estimated date of delivery.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+Refund has been issued
+
+Hi $contacts.name.first,
+ 
+Thank you for getting back to us. At your request, we’ve issued a refund of $[*****INSERT AMOUNT*****] for order number [*****INSERT ORDER NUMBER*****]. 
+ 
+Please be advised that most of the times funds are refunded to the original payment method within 72 hours, but sometimes it may take up to 7 days depending on the bank's technology. The best way to know the exact refund timeframe set by your bank is by contacting them directly.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id 
+ 
+Walmart.com Customer Care 
+
+
+Hi $contacts.name.first,
+
+We sincerely apologize for the inconvenience with ******. Thank you for contacting Walmart.com, we're glad to honor your request.
+
+I have started the refund process for $[**INSERT AMOUNT] for the [INSERT ITEM NAME] from order number [INSERT ORDER NUMBER**].
+
+[IF REFUNDING MULTIPLE ITEMS] We have started the refund process of $[**INSERT AMOUNT] for order number [INSERT ORDER NUMBER**].
+
+OPTION 1: (AFFIDAVIT NEEDED regular account) 
+In order to complete this refund process, we need you to sign an agreement, also called an affidavit, promising that you will return your item(s) OR that you did not receive the item(s). We've sent an email with a link to this agreement to the email address listed on your Walmart.com account. If you haven't received the email, you may sign into your Walmart.com account to complete the agreement.
+
+To find your agreement in your account: 
+
+1) Sign in to "My Account" 
+2) Click "Order History" and select the order you want to return
+3) Click the link in the order to view the agreement 
+4) Click Submit to agree to the agreement
+
+The agreement must be signed within 7 days or your request will be canceled and your refund will not be processed. After the agreement has been signed, your refund will post to your original method of payment within 7 days. If you have questions about your refund, please contact your financial institution.
+
+ONLY IF ITEM IS EXPECTED BACK 
+
+Regarding your return, you have 30 days to return the original item once you agree to the affidavit. If we do not receive the item within that time, you will be recharged. Upon signing your agreement via email, you will be given a link to a prepaid shipping label. Please print this label and put it on the package that you are returning. Return packages can be taken to any FedEx or USPS location. Please note that you will not be able to return your item in store after your agreement has been signed.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+Call Tag 
+
+Hi $contacts.name.first,
+
+(OPTION 1 - USPS)
+
+I have issued a request through USPS to pick up your item. You will receive an email from USPS with the subject "USPS - Package Pickup Complete" which will include pickup details. Please follow the instructions in the email in order to complete this process. You will also need to print a prepaid return label from our website by going to "My Account" under your "Order details." You will then need to attach the label to the box in which you will return your item(s). USPS won't pick up your package(s) if the label isn't attached.
+
+(OPTION 2 - FedEx)
+
+I have issued a request through FedEx to retrieve your item. FedEx is scheduled to pick up your package on [INSERT DATE AND APPROXIMATE TIME OF PICKUP] between 8:00 am and 8:00 pm.
+
+You will receive an email from FedEx that will have a link to print a shipping label. You will then need to attach that label to the box that you will use to return the item. You must print the label and put in on the box, or FedEx won't be able to complete this pickup.
+
+(OPTION 3 - Freight)
+
+I have issued a request through Estes to pick up your item. Estes will contact you within the next 3 to 5 business days to schedule a pickup appointment.
+
+Please have the item packaged and ready for pick up by the scheduled pickup date. Once packaged, leave your item outside of your residence for easy access by the carrier. Unfortunately, carriers are not allowed to enter your residence to retrieve merchandise.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+Wrong Address
+
+Hi $contacts.name.first,
+
+Thank you for contacting Walmart.com. Unfortunately, due to system limitations we are unable to change an order after you click "Place Order" because your order begins processing immediately.
+
+ [OPTION 1 - customer asks to reroute address] 
+
+However, if the delivery address is incorrect, we can try to cancel or intercept the package if it's not too far along in processing, but we can't redirect the package to a different address. To attempt to cancel or intercept, please call us immediately at 1-800-966-6546.
+
+[OPTION 2 - ONLY if customer requested cancellation] 
+
+I have submitted a request to cancel your order. If your order successfully cancels, you will not be charged [UNLESS THE CUSTOMER USED PAYPAL OR A GIFT CARD]. If we are unable to process the cancellation request in time, you will receive a shipment confirmation email, and you will be charged. If you receive that email, please call us immediately at 1-800-966-6546 so that we can attempt to intercept the package and have it returned to us for a refund.
+
+[OPTION 3 - Request to intercept has been escalated] 
+
+Because your order has already shipped, we have submitted a request to intercept your order and have it returned. If this request is successful, the item will be returned, and you will be refunded. If the order is too far along in shipping and updates to delivered status, you can try to retrieve the package if you know the recipient or contact your financial institution to dispute the charges.
+
+[OPTION 4 - Order delivered] 
+
+Unfortunately, your order has already been delivered. Please try to retrieve the package if you know the recipient. If that is not possible, we suggest disputing the charges with your financial institution.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+Missing Parts
+
+Hi $contacts.name.first,
+
+[FIRST CONTACT] We certainly apologize that your product was missing parts.
+
+Please try reaching out to the manufacturer directly at [insert manufacturer's phone number] to request that they supply any missing parts. This will be the fastest way to receive your missing parts, as most manufacturers prefer to speak with customers directly.
+
+[IF CUSTOMER IS CONTACTING US AGAIN BECAUSE THE MANUFACTURER WAS NOT ABLE TO ASSIST] 
+
+I apologize for the inconvenience that this issue is causing you. In order to assist you in this matter, we would like to offer you a refund or a full replacement of the item.
+
+If you select replacement, please be advised that replacement orders must be for the same item and must be sent to the same shipping address as the original order. If you request a replacement and the item is no longer available, a refund will automatically be issued to the original form of payment. Refunds will process to the original form of payment within 7 days of initiating the refund. Once you inform us of your preference, we will provide instructions on returning the item you currently have.
+If you would still like to keep the item as is, we would be willing to offer you an adjustment of 20% for the missing parts.
+
+Please let us know which option you would prefer, and we will gladly assist.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+Damaged
+
+Hi $contacts.name.first,
+
+OPTION 1 – Regular Item Damaged 
+
+We certainly apologize for the condition of the item you received. As per our policy, all items purchased on Walmart.com can be returned for refund in any of our store locations. If you need to arrange a refund or replacement by mail, we would be more than happy to assist you with this return. Please reply to this email and let us know if you would prefer a refund or replacement.
+
+If you select replacement, please be advised that replacement orders must be for the same item and must be sent to the same shipping address as the original order. If you request a replacement and the item is no longer available, a refund will automatically be issued to the original form of payment. Refunds will process to the original form of payment within 7 days of initiating the refund. Once you inform us of your preference, we will provide instructions on returning the item you currently have.
+
+OPTION 2 – Perishable, broken glass, or leaking item (NOT EXPECTED BACK) 
+
+We certainly apologize for the condition of the item(s) you received, and we want to let you know that we’ll do our best to avoid this situation for future orders. In order to amend this situation, please let us know whether if you’d like us to refund your item(s) or send replacement for it(them). As per our policy, this (these) item(s) you received in damaged condition doesn’t (don’t) need to be returned.
+
+If you select replacement, please be advised that replacement orders must be for the same item and must be sent to the same shipping address as the original order. If you request a replacement and the item is no longer available, a refund will automatically be issued to the original form of payment. Refunds will process to the original form of payment within 7 days of initiating the refund.
+
+OPTION 3 – Damaged in Transit 
+
+We certainly apologize that you haven’t received your item(s). I have tracked your order [INSERT ORDER NUMBER], and our records indicate that it got damaged during transit and the carrier returned the package to our Returns Center, because it cannot be delivered in such condition.
+
+Please accept our sincere apology for this inconvenience, and let us know if you would prefer a refund or replacement. If you select replacement, please be advised that replacement orders must be for the same item and must be sent to the same shipping address as the original order. If you request a replacement and the item is no longer available, a refund will automatically be issued to the original form of payment. Refunds will process to the original form of payment within 7 days of initiating the refund. Once you inform us of your preference, we will provide instructions on returning the item you currently have.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with: item damaged received
+ 
+The Resolution provided to the customer: offered refund or replacement 
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Wrong Item
+
+Hi $contacts.name.first,
+
+OPTION 1 – Customer contacting us about wrong item received. We sincerely apologize for the wrong item received. As per our policy, wrong items received can only be returned by mail, but you’ll be able to print a prepaid return label from “My Account” in order to return it. In order to amend this situation, please let us know if you would prefer a refund or replacement for the item.
+
+If you select replacement, please be advised that replacement orders must be for the same item originally ordered, and must be sent to the same shipping address as the original order. If you request a replacement and the item is no longer available, a refund will automatically be issued to the original form of payment. Refunds will process to the original form of payment within 7 days of initiating the refund. [ONLY IF ITEM OVER $7] Once you inform us of your preference, we will provide instructions on returning the wrong item you currently have.
+
+OPTION 2 – Customer requesting refund/replacement for wrong item received. (AFFIDAVIT NEEDED/EXPECTED BACK).
+
+ At your request and in order to make it right for you, we have started a refundORreplacement process for the wrong item you received.
+
+In order to complete this refundORreplacement process, we need you to sign an agreement, also called an affidavit, promising that you will return the incorrect item received by mail. We've sent an email with a link to this agreement to the email address listed on your Walmart.com account. If you haven't received the email, you may sign into your Walmart.com account to complete the agreement.
+
+To find your agreement in your account: 
+1) Sign in to "My Account" 
+2) Click "Order History" and select the order you want to return 
+3) Click the link in the order to view the agreement 
+4) Click Submit to agree to the agreement
+
+Once you have signed the return agreement, you will be able to print a return label from “My Account” in order details. This return label will display the original item ordered, but you’ll be able to use it in order to return the incorrect item received; you will not have issues returning a different item than the one listed on the return label, since we are aware that you received an incorrect package.
+
+The agreement must be signed within 7 days or your request will be canceled and your refund will not be processed. After the agreement has been signed, your refund will post to your original method of payment within 7 days. If you have questions about your refund, please contact your financial institution.
+
+Regarding your return, you have 30 days to return the original item once you agree to the affidavit. If we do not receive the item within that time, you will be recharged. Upon signing your agreement via email, you will be given a link to a prepaid shipping label. Please print this label and put it on the package that you are returning. Return packages can be taken to any FedEx or USPS location. Please note that you will not be able to return your item in store after your agreement has been signed.
+
+OPTION 3 - Customer requesting refund/replacement for wrong item received. (NOT EXPECTED BACK – ITEM BELOW $7).
+
+REFUND 
+
+At your request and in order to make it right for you, we’ve issued a refund of $*** for your order [INSERT ORDER NUMBER]. As per our policy and due to the nature of the wrong item received, it doesn’t need to be returned.
+The refund will post to your original method of payment within 7 days. If you have questions about your refund, please contact your financial institution.
+
+REPLACEMENT 
+
+At your request and in order to make it right for you, we’ve issued a replacement for the [ITEM]. OR for the following items in your order: BULLETS ARE USED IF YOU’RE REPLACING MORE THAN 1 ITEM. BULLETS ARE USED IF YOU’RE REPLACING MORE THAN 1 ITEM.
+
+As per our policy and due to the nature of the wrong item received, it doesn’t need to be returned. You will receive an email(s) with your new order number(s) shortly. As soon as your order ships, you can track it online at Walmart.com by clicking "Track My Orders" at the top of our home page.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with: wrong item received
+ 
+The Resolution provided to the customer: offered refund or replacement
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Incorrect Item, site
+
+Hi $contacts.name.first,
+ 
+I certainly apologize the inconvenience caused with the incorrect color of the dvd player that you received. However, in all honesty, after reviewing our website with this item details, I found that there might be an issue with this item page indicating purple color but with an incorrect picture. This might be cause due to an incorrect item label and that is why you received one from another color from the one you ordered. 
+
+In this case, we can issue a refund or a replacement but if we issue a replacement there is a possibility that you will receive an incorrect color again. 
+
+We can offer you in this case that we issue a refund so you can return this item and you may reorder another similar item in purple color and we will issue a 20% discount to rectify this inconvenience. Please let us know how to proceed.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+Extra Item received
+
+Hi $contacts.name.first,
+
+OPTION 1 – CUSTOMER ASKING WHAT TO DO (ITEM OVER $7) 
+
+Thank you very much for reporting us the extra item you received in your order. If you’d like to keep it, we could arrange to bill you for the price of the item if you give us your permission. If this is the case, please reply to this email giving us your authorization so we can start this process.
+
+If you wouldn’t like to keep it, you may use the link below in order to start a return and return this item by mail at no cost, by printing a prepaid return label from “My Account”. We could also arrange a pickup appointment so one of our carriers can pick up the item from the shipping address listed for this order.
+
+OPTION 2 – CUSTOMER ASKING WHAT TO DO (ITEM UNDER $7) 
+
+Thank you very much for reporting us the extra item you received in your order. I appreciate your contact to let us know this situation, and I’d like to let you know that there won’t be needed to return this item. You may keep it, donate it, or throw it away.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+DELAYED, adjustment
+
+Hi $contacts.name.first,
+ 
+We certainly apologize for the delay on the shipping of your order. Unfortunately, due to the high volume of orders we're handling at this time there is a slight delay in some orders. In order to amend this inconvenience I have issued a refund of $4.97 for the shipping charge in order number 6181526589496.
+ 
+The refund will post to your original method of payment within 7 days.  If you have questions about your refund, please contact your financial institution.
+
+Once again, our deepest apologies for such situation experienced with your order. Rest assured that our standard of services is much higher of what we have displayed on this occasion. We hope to have the chance to be able to meet your expectations in the near future.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id 
+ 
+Walmart.com Customer Care 
+
+
+contacted because they needed assistance with: late to arrive
+ 
+The Resolution provided to the customer: issued shipping adjustment
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Processing Delay
+
+Hi $contacts.name.first,
+ 
+We certainly understand your concern on the shipping of your order. Unfortunately, due to the high volume of orders we're handling at this time there is a slight delay on the processing of some orders. However, your order is expected to ship on December th and should arrive by December th as expected.
+
+As soon as your order ships, you can track it online at Walmart.com by clicking "Track My Orders" at the top of our home page.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+ contacted because they needed assistance with: order status
+ 
+The Resolution provided to the customer: provided esd and edd
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+
+
+
+
+Finance Issues
+Authorization hold
+
+Hi $contacts.name.first,
+
+We certainly understand your concern regarding the refund that you have not received for a cancelled order. Allow me inform you that you were not charged for this order. As matter of fact, the charge you see on your account is an authorization hold.
+
+Allow me explain in further detail. 
+Any time you place an order, an authorization hold is placed on your method of payment for the total amount of the order. This authorization hold is not an actual charge. It just confirms that there are funds available to complete your purchase, and it typically appears in your account as a pending charge. The actual charge for the purchase amount does not occur until your order is shipped.
+
+If an order cancels, an authorization reversal is automatically generated and sent from our system to the financial institution's system. The authorization hold is then usually dropped with 3 days; however, it is up to the issuing banks technology/system as to when the authorization actually gets reversed (out of Walmart's control). The best way to get the authorization hold removed early is to contact your financial institution.
+
+For more information about authorization holds please visit the link below:
+http://help.walmart.com/app/answers/detail/a_id/91/kw/authorization 
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+
+contacted because they needed assistance with: Order cancelled, payment pending
+ 
+The Resolution provided to the customer: advised pending charge is an authorization hold and should be dropped by financial institution
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Bill failed
+
+Hi $contacts.name.first,
+ 
+I certainly apologize for the inconvenience experienced with our website. However, allow me inform you that this issue with your payment information will be resolved along with your financial institution and there is no action required from you. If there were any action required from you our billing department would contact you with the details and will help you process your payment correctly. 
+
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: Bill failed notification
+ 
+The Resolution provided to the customer: advised there is no action required, disregard notification
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Tax Refund
+
+Hi $contacts.name.first,
+ 
+Thank you for contacting Walmart.com. I’m happy to assist with your request. We’ve issued a refund of $***$$$$*** for the taxes on order number ***ORDER*** The refund will post to your original method of payment within 7 days.  If you have questions about your refund, please contact your financial institution.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care 
+
+contacted because they needed assistance with: tax refund
+ 
+The Resolution provided to the customer: issued adjustment
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Tax Escalated
+
+Hi $contacts.name.first,
+ 
+Thank you for contacting Walmart.com. I’m happy to assist with your request.
+ 
+We have sent your request to Walmart.com's Tax Exemption Department to adjust the taxes for order number [***INSERT ORDER NUMBER***]. Please allow 10 business days for the request to be received and adjusted. You will receive an email informing you when the refund has been issued.
+ 
+If you have additional questions, please call us at 1-800-966-6546 and we'll be happy to assist.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care 
+
+
+Kim contacted because they needed assistance with: tax refund
+ 
+The Resolution provided to the customer: advised we escalated to issue taxes refund
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: Supervisor
+ 
+Incident #: $incidents.ref_no
+
+Processing Issues
+Stuck in processing
+
+Hi $contacts.name.first,
+
+I totally understand your concern about the status of your order. Allow me inform that I have carefully gone through our records and have determined that your order did not process properly. I'm sorry to say we were not able to process your order due to a problem with our system. Because this order was not going to be processed successfully, a request to cancel has been placed for it.
+
+Please allow up to 48 hours to process this request. At some point during this time period, you should receive an email confirming the updated status of your order. If you do not receive an email confirming either that the order has shipped or that it has been successfully cancelled in the next 48 hours, please contact us again so we can work to resolve this situation as soon as possible. 
+
+If you still need the item, you may reorder it online if available and should process correctly this time. If you do place a new order for this item please contact us back with your new order number so we can issue a 10% discount to your item for the inconvenience caused.
+
+Please accept our deepest apologies for this inconvenience. Rest assured that we are always working to improve our service and provide the best online shopping experience possible. 
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+1 ITEM
+
+I totally understand your concern about the status of your item not received. Allow me inform that I have carefully gone through our records and have determined that your item did not process properly. I'm sorry to say we were not able to process your item due to a problem with our system. Because this item was not going to be processed successfully, a request to cancel has been placed for it.
+
+
+contacted because they needed assistance with: order not shipped
+
+The Resolution provided to the customer: advised is stuck in processing, placed intent to cancel
+
+The next steps provided to the customer: reorder 
+
+Offered compensation: 10% discount if reorders same item
+
+Escalated the issue to: 
+
+Incident #: $incidents.ref_no
+
+Backorder Status
+
+Hi $contacts.name.first,
+
+We definitely understand your concern regarding the status of your order. We have carefully reviewed our records and we could confirm that your order has been placed in a backorder status.
+
+(OPTION 1 - ITEM IN STOCK) 
+
+It means that the closest fulfillment center to your shipping address was unable to complete your order. Please allow from 3 to 10 days for our system to locate an available fulfillment center to complete this order. Once the order gets shipped, you'll receive a shipping confirmation email containing the tracking information of your order, for you to check its trajectory.
+
+If in case the order cannot be fulfilled, it would be canceled after 10 days. If you are unable to wait 10 days for this order to be processed, you may request to cancel it from the order details in “My Account”.
+
+(OPTION 2 - OUT OF STOCK) 
+
+
+Because the item is currently out of stock in our website, we recommend you to allow up to 5 days in order to see if the item gets back in stock. If so, you'll receive a shipping confirmation for this order once it gets completed by the fulfillment center. If not, the order should automatically be canceled after those 5 days. 
+
+If you wouldn't like to wait 5 days to see if we get more items in stock, you can place a request to cancel this order following these steps:
+
+•	Sign in to "My Account" 
+•	Find the order you wish to cancel 
+•	Click the order number to see the order details
+
+Our deepest apologies for such situation experienced with this order, please be assured that we're always working to improve our business and provide the best online shopping experience possible. 
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with: Item not shipped
+ 
+The Resolution provided to the customer: advised item is in backorder status
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Order not found, info
+
+Hi $contacts.name.first,
+
+I certainly understand your concern regarding this order that you can't find in your order history. Unfortunately, we were also unable to locate your order, Because of this we need additional information in order to assist you.
+
+Please provide the following:
+• Order Number (If available from order confirmation):
+• Date of Order placement:
+• Email address on Walmart.com account:
+• Payment Method
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with:  order not found
+
+The Resolution provided to the customer: requested more information
+
+The next steps provided to the customer: 
+
+Offered compensation: 
+
+Escalated the issue to: 
+
+Incident #: $incidents.ref_no
+
+Order not found, placed within 24 hours
+
+Hi $contacts.name.first,
+ 
+I certainly understand your concern regarding t his order that you placed yesterday and you received no confirmation email. Allow me apologize for this inconvenience with your order not being displayed in your order history. Currently we are experiencing some technical difficulties and some orders take longer to process. Please allow 24 hours for your order to processed and for the confirmation email to be sent. If you have not received your email confirmation within the next 24 hours please contact us back.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: order not found
+ 
+The Resolution provided to the customer: advised to wait 24 hours for order to process or contact us back
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+Order not found
+
+Hi $contacts.name.first,
+ 
+Thank you for contacting Walmart.com. I’m happy to assist with your request.
+ 
+Allow me inform you that I have reviewed our records for recent orders in your account and was unable to locate any order with a ***ITEM***  purchased. In this case, if you believe you placed this order but you did not receive an email confirmation it is possible that it was not processed correctly by our system. If this were the case, this order will be cancelled within 10 days of the order placement date. Once cancelled, a refund will be issued or the authorization hold will be released if the order was placed with a credit or debit card. We can also advised you to contact your financial institution to request information if there is a pending charge for the amount of the ***ITEM***  on the date that you placed this order. 
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+contacted because they needed assistance with: order not found
+ 
+The Resolution provided to the customer: advised order will be cancelled and refunded/auth hold removed
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+Photo Issues
+Photo not received
+
+Hi $contacts.name.first,
+ 
+I certainly apologize that you have not been notified to pick up your photo order. I have reviewed our records and found that the status of your order has not been updated by the store yet.
+
+In this case we kindly advise you to contact the store directly at ***STORE*** and request the status of your order to the photo center. If they have not received your photos or they are not ready to be picked up you may request a refund. 
+
+If the store does not have them and you request a refund and If you still need your photos printed, you may reorder them easily following the steps below.
+
+1.    Sign into "My Account" on Walmart.com
+2.    Click "Photo Center Account" on the left
+3.    Click "My Account" on top right to access your photo account
+4.    Click on item name for order you would like to replace.
+5.    Look for the Quick Reorder Shopping Cart on the right and click on "Reorder Now".
+6.    This will place all items into your cart where you can select additional copies and sizes as well as remove individual items from the cart.
+
+if you do reorder your photos please contact us back with your new order number so we can issue a 15% discount for the inconvenience with your order. 
+
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: photo order not received
+ 
+The Resolution provided to the customer: advised to contact store 
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 15% discount if reorders
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Cancel photo
+
+Hi $contacts.name.first,
+ 
+Thank you for contacting Walmart.com. Unfortunately, since this order has already shipped, we are unable to cancel it due to system limitations. At this point the only one capable of canceling your order would be photo center at the store that you selected for pick up. In this case we kindly advise you to contact the store directly at (724) 349-3565 and you may request that your order is cancelled and refunded.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: cancel photo order
+ 
+The Resolution provided to the customer: advised to contact store
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+LIT refund
+
+
+Hi $contacts.name.first,
+
+We certainly apologize that you have not received the photos that you ordered yet. We’ve tracked your order and unfortunately, we don’t see any movement on the package.  Sometimes this means that the package has been lost, but other times it means that the package is still on its way but simply hasn’t been scanned at its last location. 
+ 
+However, because your estimated delivery date has passed and since the store has not received the photos yet, most likely your photos were lost on its way to the store. Unfortunately, we are unable to issue photo replacements due to system limitations. Because of this, I have issued a refund of $***$$$$*** and taxes for order number ***ORDER***..
+
+If you still need your photos printed, you may reorder them easily following the steps below.
+
+1.    Sign into "My Account" on Walmart.com
+2.    Click "Photo Center Account" on the left
+3.    Click "My Account" on top right to access your photo account
+4.    Click on item name for order you would like to replace.
+5.    Look for the Quick Reorder Shopping Cart on the right and click on "Reorder Now".
+6.    This will place all items into your cart where you can select additional copies and sizes as well as remove individual items from the cart.
+
+If you do place a new order for your photos, once your order is placed please contact us back with your new order number so we can issue a 15% discount for the inconvenience with this order.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: photos not received
+ 
+The Resolution provided to the customer: issued refund
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 15% discount if reorders
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Photo Stuck in Processing
+Hi $contacts.name.first,
+
+I totally understand your concern about the status of your photo order. Allow me inform that I have carefully gone through our records and have determined that your order did not process properly. I'm sorry to say we were not able to process your order due to a problem with our system. Because this order was not going to be processed successfully, a request to cancel has been placed for it.
+
+Please allow up to 48 hours to process this request. At some point during this time period, you should receive an email confirming the updated status of your order. If you do not receive an email confirming either that the order has shipped or that it has been successfully cancelled in the next 48 hours, please contact us again so we can work to resolve this situation as soon as possible. 
+
+If you still need your photos, you may reorder online and they should process correctly this time. If you do place a new order for your photos please contact us back with your new order number so we can issue a 10% discount to your order for the inconvenience caused.
+
+Please accept our deepest apologies for this inconvenience. Rest assured that we are always working to improve our service and provide the best online shopping experience possible. 
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with: photo not received
+ 
+The Resolution provided to the customer: stuck in processing, placed intent to cancel
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+Bad Quality, Refund
+
+Hi $contacts.name.first,
+ 
+We sincerely apologize that your ***ITEM*** arrived in such condition. Unfortunately, we are unable to issue photo replacements due to system limitations. Because of this, I have issued a refund of $***$$$$*** and taxes for order number ***ORDER***..
+
+If you still need your photos printed, you may reorder them easily following the steps below.
+
+1.    Sign into "My Account" on Walmart.com
+2.    Click "Photo Center Account" on the left
+3.    Click "My Account" on top right to access your photo account
+4.    Click on item name for order you would like to replace.
+5.    Look for the Quick Reorder Shopping Cart on the right and click on "Reorder Now".
+6.    This will place all items into your cart where you can select additional copies and sizes as well as remove individual items from the cart.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: photos received with poor quality
+ 
+The Resolution provided to the customer: issued refund
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+PHOTO 1 hour wrong date
+
+Hi $contacts.name.first,
+ 
+We certainly apologize for the confusion with the delivery date of your photos. Allow me inform you that indeed this was an error from our system with the date stated. 
+
+According to our records your photos from order number ***order**** are ready for you to pick up at the store you selected, which is listed in your order confirmation email. 
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care 
+
+
+contacted because they needed assistance with: photo order status
+ 
+The Resolution provided to the customer: advised order is ready for pick up
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+Cancellation Related
+Customer wants to cancel
+
+Hi $contacts.name.first,
+
+OPTION 1 (you placed intent to cancel):
+
+I have submitted an intent to cancel on your order and will try our best to complete the cancellation process at your request. Please be advised that cancellations are not guaranteed because we do try to process orders as swiftly as possible. You will receive notification via email within the next 48 hours. If your order is successfully cancelled within that time, you will receive a confirmation of the cancellation. If the cancellation request does not reach our fulfillment center before your order is processed, your order will ship, and you will receive a shipment confirmation email. 
+
+[ONLY IF INTENT TO CANCEL PLACED DUE TO WRONG ADDRESS] In that case, we can try to intercept the package if it's not too far along in the shipping process, but we can't redirect the package to a different address. To attempt to intercept, please call us immediately at [Insert Number]. 
+
+[IF INTENT TO CANCEL WAS NOT PLACED DUE TO WRONG ADDRESS] In that case, you may return your order in store for a refund or contact us again to arrange a return by mail.
+
+OPTION 2 (you were unable to place intent to cancel):
+
+Because we process orders as quickly as possible, your order is already in the shipping process and cannot be canceled at this time. 
+
+[ONLY IF INTENT TO CANCEL PLACED DUE TO WRONG ADDRESS] Because we are unable to cancel your order, we can try to intercept the package if it's not too far along in the shipping process, but we can't redirect the package to a different address. To attempt to intercept, please call us immediately at [Insert Number].
+
+ [INTENT TO CANCEL PLACED FOR REASONS OTHER THAN WRONG ADDRESS] Because we are unable to cancel your order, you may return the items in your local store to receive a refund [UNLESS IT IS AN ITEM THAT IS NOT ELIGIBLE FOR STORE RETURN] or contact us again to organize a return by mail.
+
+OPTION 3 (S2S order that has shipped): Once a Site to Store order is on its way to the store, it's not possible for us to cancel or refund it. However, there are two simple ways to receive a refund.
+
+Get a refund at the store: Once the order arrives at the store for pickup, you can go to the Site to Store counter and request a full refund.
+
+Don't pick up the order: Any item that isn't picked up within 14 days of arrival will be canceled and refunded.
+Further return instructions are available at: http://www.walmart.com/returns/returns_how.gsp 
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+Why canceled
+
+We certainly apologize that your order was cancelled. Allow me explain why your order could not be completed.
+
+OPTION 1 -(Failed Fraud Checks (including edelivery orders like egift cards or prepaid phone cards that failed fraud checks)
+
+We have many security checks in place to help prevent unauthorized use of your credit or debit card. We take your security very seriously, and it appears that at this time your method of payment did not pass all of our checks. 
+
+Unfortunately, we cannot accept your online order at this time, but you may purchase this product at any Walmart store if it is available. You have the ability to search all nearby stores using our Store Finder
+
+OPTION 2 (ONLY if meets requirements in ASC: Why Canceled Customer Insult)
+
+We have many security checks in place to help prevent unauthorized use of your credit or debit card. We take your security very seriously, and it appears that at this time your method of payment did not pass all of our checks during processing. 
+
+In order to assist you in this matter, we have opened a case to review your account to determine if these security checks canceled your order in error. Please try to place your order again after 30 minutes have passed using the same Walmart.com account and computer. While it's not guaranteed that your order will be successful, this will ensure that we have enough time to review your account.
+
+INTERCEPTAS ***customer had order cancelled due to failed security checks***previous successful orders, customer insult escalated via interceptas
+
+contacted because they needed assistance with: order cancelled 
+
+The Resolution provided to the customer: advised we escalated due to customer insult
+
+The next steps provided to the customer: try to place order after 30 minutes
+
+Offered compensation:    
+ 
+Escalated the issue to: Interceptas
+
+Incident #: $incidents.ref_no
+
+
+FIRST ORDER PLACED-(Failed Fraud Checks (including edelivery orders like egift cards or prepaid phone cards that failed fraud checks)
+
+We have many security checks in place to help prevent unauthorized use of your credit or debit card. We take your security very seriously, and it appears that at this time your method of payment did not pass all of our checks during processing. Since these security checks may have canceled your order in error. Please try to place your order again after 48 hours have passed using the same Walmart.com account and computer. 
+
+If the problem persists you may purchase this product at any Walmart store if it is available. Store customer service can check into the availability of an item in the stores in your area. You can reach us there by dialing 1-800-WALMART (1-800-925-6278).
+
+
+OPTION 3 (Failed finance verification/payment failed): 
+
+It appears that there was an issue verifying all the billing information related to this order. This type of cancellation usually occurs because the billing information (e.g. address, expiration date, card number) on file with us did not match the information on your credit card statement. Please contact your financial institution to verify that the payment details you are using are correct. In the meantime, you may also place your order using a different method of payment.
+
+OPTION 4 (Out of stock)
+ 
+It appears that this item is not currently in stock. At this time we are unable to estimate when this item will be back in stock. Please visit the site periodically to see if the item is back in stock. Some items display a “Get in-stock alert" button. If available, please use this feature so that we can notify you via email when the item is available again.
+You can also visit your local Walmart store to see if they have the item in stock. Store customer service can also check into the availability of an item in the stores in your area. You can reach us there by dialing 1-800-WALMART (1-800-925-6278) and selecting option 2 and then option 2 again.
+
+OUT OF STOCK PUT
+
+It appears that this item is not currently in stock at the store selected. At this time we are unable to estimate when this item will be back in stock. Please visit the site periodically to see if the item is back in stock. You may also try to place a new order selecting a different store since items availability may be different from store to store
+
+[ORDER PLACED ON CREDIT/DEBIT CARD] 
+
+Regarding your payment for this cancelled order, because your order was canceled, your bank will remove the authorization hold on your card. While most authorization holds drop within 3 days, it can take longer, depending on your bank/credit card company. The bank ultimately controls when this charge is released, so the best way to get the authorization hold removed early is for you to contact your financial institution.
+
+[ORDER PLACED USING PAYPAL] 
+
+Because your order was canceled, you will be refunded for this order. The refund will post to your original method of payment within 7 days. If you have questions about your refund, please contact your financial institution.
+
+[ORDER PLACED WITH GIFT CARD] 
+
+Because your order was canceled, you will be refunded for this order. The refund should post back to your gift card within the next 7 days.
+
+
+contacted because they needed assistance with: order cancelled
+ 
+The Resolution provided to the customer: advised order was cancelled due to security checks
+ 
+The next steps provided to the customer: 
+
+Offered compensation: 	
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Finance Hold, not received
+
+Hi $contacts.name.first,
+ 
+I certainly understand your concern regarding this delay with your order to be picked up today. Allow me inform you that according to our records there was some payment information that needed to be double checked with your financial institution. But it seems that your payment went through correctly and your order should be ready within a few hours.
+
+Once your order is ready you will receive a confirmation email. You may also contact the store directly at the number ***STORE NUMBER**** to verify the status of your order.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+Cancel international
+
+Hi $contacts.name.first,
+ 
+I certainly apologize that your order was cancelled. After further reviewing your account and cancelled order, this is what I found. Since you just created your account, this was your first order with us and due to the amount of the order, our security systems to prevent unauthorized use of credit/debit cards cancelled your order.
+
+In this case we kindly advise you to wait 48 hours and try to place a new order, however, since you are using an international credit card, that also may cause that orders get cancelled more often since they require additional security checks.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+Account/Site Related
+APP
+
+Hi $contacts.name.first,
+
+We apologize for the inconvenience you experienced while using our Walmart App. In this case we kindly advise you to try reinstalling your app and also deleting your apps cache, usually found in your smart phone settings under applications management. 
+
+If you are still having issues with our app after following the steps above, please try using our full website from a desktop or laptop computer.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with: app issues
+
+The Resolution provided to the customer: provided troubleshooting
+
+The next steps provided to the customer: 
+
+Offered compensation: 
+
+Escalated the issue to: 
+
+Incident #: $incidents.ref_no
+
+Issues with Site
+
+OPTION 1: (Site down) 
+Hi $contacts.name.first,
+
+We sincerely apologize that you experienced problems with our website during your visit to Walmart.com. We strive to provide our customers with the best online experience possible. Please be assured that we are working as quickly as possible to get our site up and running smoothly again.
+
+In the meantime, we recommend clearing the cookies, cache and history from your Internet browser and trying your order again. To delete cookies in most browsers, go to tools > options > delete cookies/browsing history/temporary files. If that doesn't work, you may try using a different browser or device/computer.
+
+Other options you may try to place this order immediately:
+
+•	If you have a smartphone (like an iPhone or Android), try placing an order on mobile.walmart.com.
+•	If you have the Walmart app or are willing to download it, you can try placing your order on the mobile Walmart app.
+•	If you don't have a smartphone, you may create a new account with a different email address and login to checkout.
+
+If you are still unable to place your online order, please do not hesitate to call us at 1-800-966-6546, and we will be more than happy to assist you in placing your online order.
+
+Sincerely, 
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+
+Escalation
+Also, If you are still unable to place your order after following the steps above. We'd like to ask you if you could be so kind to provide us with a screenshot of the error you are seeing so we can further investigate this, that will also help us to have this fixed sooner.
+
+Honor Price
+
+Unfortunately, we are unable to honor price reductions of Value of the Day, Clearance, Special Buy, or prices on Deep Discount Days like Black Friday, Thanksgiving, and Cyber Monday. Because of this the prices that are advertised today cannot be honored afterwards.
+
+OPTION 2: (Site up or no known problems) 
+I apologize that you experienced problems with our website during your visit to Walmart.com. Currently, we are unaware of any technical problems that might affect the availability of our website, but I'm going to report your case to see if this is something we are not aware of.
+
+Due do the nature of the error you are experiencing, I’d recommend clearing the cookies, cache and history from your Internet browser and trying again. To delete cookies in most browsers, go to tools > options > delete cookies/browsing history/temporary files. If that doesn't work, you may try using a different browser or device/computer.
+
+Other options you may try to place this order immediately:
+
+•	If you have a smartphone (like an iPhone or Android), try placing an order on mobile.walmart.com.
+
+•	If you have the Walmart app or are willing to download it, you can try placing your order on the mobile Walmart app.
+
+•	If you don't have a smartphone, you may create a new account with a different email address and login to checkout.
+
+If you are still unable to place your online order, please do not hesitate to call us at 1-800-966-6546, and we will be more than happy to assist you in placing your online order.
+
+contacted because they needed assistance with: Site issues
+
+The Resolution provided to the customer: Provided troubleshooting
+
+The next steps provided to the customer: 
+
+Offered compensation: 
+
+Escalated the issue to: 
+
+Incident #: $incidents.ref_no
+
+
+
+Allow me inform you that since the account linked to your current email address is a guest account, any information cannot be updated due to guest accounts no longer being supported since early 2015. In this case, we kindly suggest you to create a new regular Walmart.com account.
+Return Related
+How to Return
+
+Hi $contacts.name.first,
+
+I'm happy to assist with your request. Actually, you may return your purchase at any Walmart store [IF ITEM IS ELIGIBLE FOR STORE RETURN] or through the mail. Items must still be within the return policy time frame to qualify for a return.
+
+Please see our returns policy here: http://help.walmart.com/app/answers/detail/a_id/9
+
+[IF APPLICABLE] To return to a store: To return an item to a Walmart store, print your Easy Returns Receipt and take your item along with all original packaging to the Customer Service desk. You can print your Easy Returns Receipt by using the link below. Stores are able to replace items only if they have the items in their inventory. If the item is not in stock in that particular store, they will still be able to refund the item.
+
+To return by mail: When returning an order by mail, please allow up to three weeks shipping and processing time for the order to reach our Return Center. When the order has been received, depending on your request, the order will either be refunded or replaced.
+
+Further instructions on how to return an item are available here: http://www.walmart.com/returns/returns_how.gsp 
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+Request Tracking information
+
+Hi $contacts.name.first,
+
+We certainly understand your concern regarding this notification of a pending return.
+Allow me inform you that we have reviewed our records and we couldn't find any information stating that such item is on its way to our return center. If you could be so kind to provide any tracking information that you have available indicating the item is being returned. Thank you for your comprehension and cooperation.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+Stop recharge
+
+Hi $contacts.name.first,
+I certainly understand your concern regarding this return notification you received. I have reviewed our records and found that your item has indeed been returned and is on its way back to us. Because of this I have stopped the recharge and notifications for this return. Please disregard this and any future notification for the return of these items.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with: notification to return items
+
+The Resolution provided to the customer: advised item is on its way, stopped recharge
+
+The next steps provided to the customer: 
+
+Offered compensation: 
+
+Escalated the issue to: 
+
+Incident #: $incidents.ref_no
+
+Returned, RMA Reminder
+
+Hi $contacts.name.first,
+ 
+I certainly understand your concern regarding this notification to return an item, however, there is no need to worry. I have reviewed our records and found that the item has indeed returned to us. We apologize for this notification that was sent automatically by our system. Please disregard this and any future notifications to return this item. 
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: rma reminder of item returned
+ 
+The Resolution provided to the customer: advised to disregard notification
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+Return, Outside Policy
+
+Hi $contacts.name.first,
+
+Thank you for contacting us.
+
+Unfortunately, your item is outside of Walmart.com's return policy, so we cannot process any refunds or replacements. You may attempt to contact the manufacturer directly at [INSERT MANUFACTURER NUMBER] or via email at [INSERT MANUFACTURER’S EMAIL] to see if they provide a manufacturer's warranty on this item. Not all manufacturers provide warranties, but some are willing to work with customers to provide a satisfactory resolution.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+S2S/PUT Related
+PUT Finance hold
+
+Hi $contacts.name.first,
+
+I certainly understand your concern regarding the delay with your order. However, after reviewing our records found that your payment method has not passed all the security checks to complete the payment and because of this your order has been delayed until these security checks are finished. Please allow up to 4 hours for this verification to be completed.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+PUT refunded, no reason
+
+Hi $contacts.name.first,
+ 
+We certainly understand your concern regarding the refund issued for this order that you did not pick up yet. Unfortunately, since Walmart.com and Walmart stores have separate systems we are unable to search their records for the reason of this refund. In this case we kindly suggest you to contact the store directly at (770) 225-9882 to request more information on this refund. 
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+PUT Finance Hold, picked up
+
+Hi $contacts.name.first,
+ 
+We certainly apologize for this delay with your order. Your order was delayed because we were verifying your payment information. Our verification process is intended to prevent unauthorized use of your credit or debit card. 
+
+However, our records indicate that your order was updated to ready for pick and is now shown as picked up, please let us know if you picked up your order or it was updated incorrectly so we can further assist you.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care 
+
+
+PUT Finance Hold, Not picked up
+
+Hi $contacts.name.first,
+ 
+We certainly apologize for this delay with your order. Your order was delayed because we were verifying your payment information. Our verification process is intended to prevent unauthorized use of your credit or debit card.
+ 
+However, your order number 6261533902060 is now ready for you to pick up at the store you selected, which is listed in your order confirmation email. Please visit the Walmart.com pickup area (usually located at the back of the store) between 10:00 a.m. and 10:00 p.m. You will need your order number and a valid photo ID that matches the name of the pickup person on your order.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: PUT delayed
+ 
+The Resolution provided to the customer: advised order is ready for pick up 
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+PUT stuck in processing 
+
+Hi $contacts.name.first,
+ 
+We certainly apologize that you have not been notified to pick up your orders yet. Allow me inform that I have carefully gone through our records and have determined that your orders did not process properly. I'm sorry to say we were not able to process your ordesr due to a problem with our system. Because this order was not going to be processed successfully. In this case for the fastest resolution we kindly suggest you to contact the store directly at (734) 286-9594 to verify the status of your orders. If the store confirms you that your order cannot be processed, you may request that your orders are cancelled. 
+
+Regarding your payment for these orders, once your orders are cancelled, your bank will remove the authorization hold on your card. While most authorization holds drop within 3 days, it can take longer, depending on your bank/credit card company. The bank ultimately controls when this charge is released, so the best way to get the authorization hold removed early is for you to contact your financial institution.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+contacted because they needed assistance with: PUT stuck in processing
+ 
+The Resolution provided to the customer: contact store
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+PUT Status, Picked up
+
+Hi $contacts.name.first,
+ 
+We certainly understand your concern regarding the pick up of your order. Allow me inform you that according to our records your order finished processing and the status has been updated to picked up.
+
+If you have not picked up your order we kindly suggest you to contact the store at (336) 370-0775 for further assistance. 
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+S2S expired
+
+Hi $contacts.name.first,
+ 
+We certainly understand your concern regarding your order that was refunded.
+
+Unfortunately, since you did not pick up your item within the available timeframe your order has expired, that is why this refund was issued.  In this case we can only advise you that if you still need your items you may place a new order for the same items.
+
+If you have additional questions you may contact the store directly at (601) 924-9096 for more information on this.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+contacted because they needed assistance with: s2s order expired
+ 
+The Resolution provided to the customer: advised order expired
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+S2S not received, arrived at store
+
+Hi $contacts.name.first,
+ 
+We certainly apologize for the delay with the delivery of your order. Allow me inform you that according to our records your order has arrived at the store already. In this case since they have not contacted you yet we kindly advise you to contact the store directly at (207) 947-5254 to verify if the store has your item ready for pick up. If your order is not ready you may request a refund.
+
+If your item is not ready and you request a refund, you may place a new for the same item and we can issue a 15% discount for this inconvenience caused. 
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+Not received s2s, rdc
+
+Hi $contacts.name.first,
+ 
+I certainly apologize that you have not been notified to pick up your order. I have reviewed our records and found that you order was shipped on December 3 and should have arrived at the store on December 15. However, the status of your order has not been updated by the store yet.
+
+In this case we kindly advise you to contact the store directly at (763) 682-2958 and request the status of your order. If they have not received your order yet or its are not ready to be picked up you may request a refund. 
+
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: order not received
+ 
+The Resolution provided to the customer: advised to contact store
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+
+
+Escalate/Transfer
+Savings Catcher
+
+Hi $contacts.name.first,
+
+OPTION 2 – Resend Savings Catcher eGift Card
+
+I'm sincerely sorry that you didn't receive your Savings Catcher Gift Card. OR We completely understand you need to get your Savings Catcher gift card resent. I recommend you to check the junk or spam folder in your email to confirm if the email has been received. If you're unable to locate your email, and your account is linked to the correct email address, you may request an email with your eGift Card by selecting My Reward Card –> Resend my eGift Card from the menu.
+
+For further assistance and information on Savings Catcher, or if the process above is unsuccessful, you may contact the Savings Catcher team directly at 866-224-1663 or send an email toSavCatch@wal-mart.com, and they will be more than happy to assist you with this, as they are the ones who handle and manage Savings Catcher accounts.
+
+OPTION 3 – Escalate to Savings Catcher team Forward > SavCatch@wal-mart.com
+
+I certainly understand your concern regarding ***ISSUE**** your Savings Catcher account. In order to help you with your current issue as soon as possible, I’ve forwarded your email directly to our Savings Catcher specialists, so they can further assist you. You may also contact the Savings Catcher team directly at 866-224-1663.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+CHAT
+
+I see, I'm sorry to learn that you have not received your eGift Card from your savings catcher rewards. In this case, please contact our savings catcher department at SavCatch@wal-mart.com or calling them at 866-224-1663 so they can assist you resending your eGift Card.
+
+contacted because they needed assistance with: savings catcher issues
+
+The Resolution provided to the customer: forwarded email to savings catcher team
+
+The next steps provided to the customer: 
+
+Offered compensation: 
+
+Escalated the issue to: savings catcher team
+
+Incident #: $incidents.ref_no
+
+Marketplace
+
+Hi $contacts.name.first,
+
+I'm sorry to learn that you have not received your item as of yet. However, your item is sold by our Marketplace partner *******.  This is a separate retailer that we work with to give you access to a wide variety of additional products that would otherwise not be available to you on our website. Because the item was actually shipped and sold directly by [INSERT MP NAME], all transactions and information for your item are handled directly by that party. You can call them directly at [INSERT PHONE NUMBER] for assistance with your request.
+
+For more information about Walmart Marketplace, please follow this link: [INSERT LINK]
+
+[IF CUSTOMER HAS RECEIVED PUSHBACK FROM THE MARKETPLACE VENDOR - ESCALATED] 
+
+We sincerely apologize that you have not been provided with an acceptable resolution. In an attempt to further assist you with in this matter, we have escalated the issue to the proper department. Please allow 7 days for a response or resolution from our Marketplace partner.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with: item returned, refund not complete
+ 
+The Resolution provided to the customer: advised we escalated for resolution from marketplace partner
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: remedy 
+ 
+Incident #: $incidents.ref_no
+
+
+Pharmacy
+
+Hi $contacts.name.first,
+
+Thank you for contacting Walmart.com. Allow me inform you that due to security reasons we are unable to review or modify pharmacy orders. 
+
+In order to have this discount applied, we kindly suggest you to contact your local pharmacist at the number ***STORE#***. Since only pharmacists are authorized to access pharmacy records.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with: discount on pharmacy order
+
+The Resolution provided to the customer: advised to contact local pharmacist
+
+The next steps provided to the customer: 
+
+Offered compensation: 
+
+Escalated the issue to: 
+
+Freight Tag
+
+Hi $contacts.name.first,
+ 
+PO #: 
+Item Name & Description: 
+Weight: 
+Dimensions: Order# 
+Reason for return: 
+Value of the item: 
+Customer Name: 
+Customer Phone #: 
+Customer Email: 
+Pick Up Address: 
+Original ship date: 
+CSR Name: Xavier Q.
+Consigning return center: 
+ 
+Carrier, please respond back to reso@walmart.com with tracking number.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+Remorse
+
+Hi $contacts.name.first,
+ 
+Thank you for contacting Walmart.com. I’m happy to assist with your request. At your request we have sent a request to the store to have your order cancelled and refunded. Please allow 48 hours to receive a confirmation email of this cancellation. Once the cancellation is completed a refund will be issued automatically. The refund will post to your original payment method within the next 7 days.
+ 
+Sincerely, 
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+We are partnering with you to meet our customer's expectations. Please "remorse," this order within 48 hours. You may add the product to your inventory or return it to the return center.
+
+
+contacted because they needed assistance with: order not received, requested to cancel
+ 
+The Resolution provided to the customer: advised we escalated to remorse
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: Remedy 
+ 
+Incident #: $incidents.ref_no
+
+
+
+
+Miscellaneous 
+Is Item in Stock?
+
+Hi $contacts.name.first,
+
+Thank you for contacting us. I'm glad to assist you with your inquiry.
+
+OPTION 1: Out of Stock/Unavailable: 
+
+The [INSERT ITEM NAME] about which you have inquired is currently out of stock. At this time we are unable to estimate when this item will be back in stock. Please visit the site periodically to check the status of the item. Some item pages display a “Get in-stock alert" button. If available, please use this feature so that we can notify you via email when the item is available again.
+
+You can also visit your local Walmart store to see if they have the item in stock. Store customer service can also check into the availability of an item in the stores in your area. You can reach us there by dialing 1-800-WALMART (1-800-925-6278).
+
+OPTION 2: In Stock: 
+
+I'm happy to inform you that the item you wish to order is available at Walmart.com. To order this item, please go to: [INSERT LINK TO ITEM PAGE]
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with: item availability
+ 
+The Resolution provided to the customer: advised item is out of stock
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Not Shipped
+
+Hi $contacts.name.first,
+
+I understand your concern regarding the delivery of this order. While orders usually ship within 48 hours of being placed, certain orders do take longer to process than others. This does not necessarily indicate a delay, as these orders are still expected to arrive by the originally anticipated delivery date. Your order hasn't shipped yet because it's scheduled to ship by [INSERT ESD] and should arrive on [INSERT EDD].
+
+Once your items ships, you will be able to track your order online at Walmart.com by clicking "Track My Orders" at the top of our home page or through the carrier's website. You should also receive an email confirmation of shipment.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+Print Invoice
+
+OPTION 1 – IF THE ORDER IS UNDER RETURN TIMEFRAME
+ 
+We understand that you need a receiptORinvoiceORproof of purchase for your order [INSERT ORDER NUMBER]. We’re unable to mail you a physical copy of the receipt, but you’ll be able to print it from “My Account” by following these steps:
+
+From the footer of the homepage, click “Return an Item”, under “Customer Service”. Select, “I made the purchase,” radio and hit continue. You will reach the old Guest order look up page. Enter an email and last 6 digits of order # and click submit. 
+You will land on Choose a Return Method page. Click, “Easy Returns Receipt”, from the left box. You can see/print the easy returns receipt from that page.
+
+OPTION 2
+
+I'm sorry to learn that you were unable to print your invoice. In this case since you used a guest account. I would advise going to the top of our website and select "Track order", there you may input your email address and last 6 digits of your order number and click on "View Order Status", there you should be able to find and print your invoice.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+Price changed
+
+I'll be more than glad to le you know the reason why there is a price difference between Walmart.com And Walmart Stores.
+
+Even though Walmart.com and Walmart stores are all part of the Walmart family, we are different lines of business. Therefore, the prices are not the same. The prices vary between our website and the stores. However, we all take part in striving to provide our customers with the best prices and the best customer service.
+
+Phishing
+
+contacted because they needed assistance with: phishing email received
+ 
+The Resolution provided to the customer: provided information on phishing emails
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Bonus Codes Site
+
+http://zreward.com/categories/1/products#
+
+Refund timeframe
+
+Hi $contacts.name.first,
+ 
+I certainly understand your concern regarding the time that will take for your refund to be completed. A billing cycle is the interval of time during which bills are prepared for goods and services that a company has sold. A billing cycle is recurring and is most often set to repeat on a monthly basis.
+
+However, when we issue a refund, most of the times funds are refunded within 72 hours, but sometimes it may take up to 7 days depending on the bank's technology. The best way to know the exact refund timeframe set by your bank is by contacting them directly.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: refund timeframe
+ 
+The Resolution provided to the customer: provided refund timeframe
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Product Details not found
+
+Hi $contacts.name.first,
+ 
+Thank you for contacting Walmart.com. I’m happy to assist with your request. Allow me inform you that I did my best to research your inquiry on the dimensions and parts specifications you inquired but unfortunately, was unable to find this information since we do not handle the inventory directly and since this item is not made by just one manufacturer but rather by several different companies as a generic item. I sincerely apologize I could not answer your questions but you may contact Walmart Stores Customer Service at the number 1-800-925-6278 as they might be able to provide you with the information you requested. 
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: product details
+ 
+The Resolution provided to the customer: advised information not found, contact stores
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Warranty Not received
+
+We certainly apologize that you have not received the Product Care Plan that you purchased on November 24th for your TV. Unfortunately, we are unable to resend the email with your warranty directly since this is issued by another department. Because of this please call our Product Care Plan line at 1-877-968-6391 and they will assist you on this matter.
+
+contacted because they needed assistance with: warranty not received
+ 
+The Resolution provided to the customer: advised to contact pcp team
+ 
+The next steps provided to the customer:
+ 
+Offered compensation:
+ 
+Escalated the issue to:
+ 
+Incident #: $incidents.ref_no
+
+
+Feedback
+
+We appreciate your feedback and we understand your concerns.   We value you as a customer and thank you for taking the time to provide this feedback. We will definitely report your concerns. 
+
+CC inquiry
+Hi $contacts.name.first,
+ 
+I certainly understand your concern regarding the credit card account number that you received. Unfortunately, due to security reasons we are unable to review Walmart Credit Card records to provide you with information on this. In this case we kindly suggest you to contact Walmart Credit Card Services at 1-877-294-7880 for assistance with your inquiry. 
+ 
+Sincerely, 
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+contacted because they needed assistance with: credit card inquiry
+ 
+The Resolution provided to the customer: advised to contact credit card services
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+Change order 
+
+Hi $contacts.name.first,
+ 
+Thank you for contacting Walmart.com. Unfortunately, we are unable to change an order after you click "Place Your Order" because your order begins processing immediately.
+ 
+However, if you do not want the item that you ordered and prefer another one instead, we can try to cancel your order if it's not too far along in processing.  To attempt to cancel your order, please call us at 1-800-966-6546. 
+
+You may also attempt to cancel your order from your account following the steps below.
+
+•	Sign in to "My Account" 
+•	Find the order you wish to cancel 
+•	Click the order number to see the order details
+
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+contacted because they needed assistance with: change item ordered
+ 
+The Resolution provided to the customer: advised we are unable to change orders, cancel and reorder
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+Trending/Temporal
+Reset Password, Not Requested
+
+Hi $contacts.name.first,
+
+I certainly apologize for this notification that you received to change your password. Allow me inform you that due to a system issue this notification is being sent automatically even though there have been no attempts to change your password. Please disregard this notification, since your account shows no request to change password.
+
+Sincerely,
+
+$incidents.assigned.acct_id
+
+Walmart.com Customer Care
+
+contacted because they needed assistance with: notification of password reset not requested
+
+The Resolution provided to the customer: advised to disregard notification
+
+The next steps provided to the customer: 
+
+Offered compensation: 
+
+Escalated the issue to: 
+
+Incident #: $incidents.ref_no
+
+Auth hold failed
+
+Hi $contacts.name.first,
+ 
+We certainly apologize that your order was cancelled.
+However, It appears that your financial institution has determined that there was an issue with your method of payment. 
+
+According to our records, the authorization hold could not be placed on your order since there were not sufficient funds on your payment method to complete this transaction. 
+
+Please contact your financial institution to verify that the payment details you are using are correct. In the meantime, you may also place your order using a different method of payment.
+ 
+If you have additional questions, please call us at 1-800-966-6546.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+Unsubscribe
+
+Hi $contacts.name.first,
+ 
+Thank you for contacting Walmart.com. I certainly understand your concern regarding the email notifications that you have been receiving. Unfortunately, due to security reasons we are unable to modify our customer’s accounts information directly.
+
+You may subscribe or unsubscribe from marketing and other emails, here http://www.walmart.com/privacypreferences.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+contacted because they needed assistance with: unsubscribe from marketing
+ 
+The Resolution provided to the customer: provided information to unsubscribe
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Out of stock Black Friday
+
+Hi $contacts.name.first,
+
+I certainly understand your concern regarding the item that you placed on your cart but that you were unable to purchase since it was already out of stock. 
+
+Unfortunately, we are unable to honor the prices of items on sale in Black Friday, Thanksgiving, and Cyber Monday. We can only advise you that you keep checking our website since we will have more items on sale and you might find a similar item that suits your needs to an even better price.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+Christmas central
+
+Hi $contacts.name.first,
+ 
+I certainly understand your concern regarding the tracking of your order. However, since your item is sold by our Marketplace partner Christmas Central.  All transactions and information regarding your order is handled directly by Christmas Central. In order to receive the most accurate information on the status of your order we kindly suggest you to call them directly at (800) 433-0038 for assistance with your request.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id 
+ 
+Walmart.com Customer Care 
+
+
+contacted because they needed assistance with: track order
+ 
+The Resolution provided to the customer: advised to contact marketplace partner
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+Walmart Spam
+
+Hi $contacts.name.first,
+ 
+We sincerely apologize for the hassle these email notifications have caused you. At your request we have manually unsubscribed your account from email notifications. If you still happen to receive another notification please contact us back for further assistance.
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+contacted because they needed assistance with: unsubscribe
+ 
+The Resolution provided to the customer: advised we updated account to unsubscribed from notifications
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: 
+
+
+Discount
+
+Hi $contacts.name.first,
+ 
+Thank you for getting back to us with your new order number. As previously offered I have issued an adjustment of ****AMOUNT*****% to your order number *****ORDER******. This discount will reflect on the amount charged once your order ships. 
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+contacted because they needed assistance with: issue adjustment due to previous inconvenience with an order
+ 
+The Resolution provided to the customer: issued adjustment
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+
+Gift Card Related
+
+
+
+
+
+Send eGC
+
+Hi $contacts.name.first,
+ 
+Thank you for contacting Walmart.com. I’m happy to assist with your request. When you select an eGift Card for purchase, there is a customization button on the eGift Card details page. There you may input the address of the recipient and also a message to the recipient person. This is done before checkout.
+
+If you already have the eGift Card on your email inbox you may forward the email with the eGift Card to the recipient person. 
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+GC activate specialty
+
+Hi $contacts.name.first,
+
+We certainly apologize that you have not received your activation email for your Visa Gift Cards.  We’re happy to assist with your request, but we need additional information in order to assist you.
+
+Please provide the following:
+
+• Gift Card Sequence Number (30-digits long, usually located on the back of the cards under the bar code. 
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+
+
+GC not received, -250
+
+Hi $contacts.name.first,
+ 
+We certainly apologize that you have not received your Gift Card yet. Unfortunately, due to security reasons, only the gift card department is able to track and provide information on gift card orders. In this case, we kindly suggest you to contact our gift card department at 800-411-7942 (option 4) and they will gladly assist you tracking your gift card. 
+ 
+Sincerely,
+ 
+$incidents.assigned.acct_id
+ 
+Walmart.com Customer Care
+
+
+contacted because they needed assistance with: GC not received
+ 
+The Resolution provided to the customer: advised to contact gift card team
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: $incidents.ref_no
+
+
+END
+
+
+Thank you for your patience. Allow me inform you that according to our records your order should've reached the store yesterday via a Walmart truck, in this case, since the status of your order has not updated to ready for pick up, it is possible that your order has not been scanned and setup as ready for pick up. At this time we kindly suggest you to contact the store directly at (208) 237-5090 to verify the most up to date status of your order.
+
+
+Roy contacted because they needed assistance with: claims item not received
+ 
+The Resolution provided to the customer: flagged as returns abuser, disconnected due to customer inactivity. 
+ 
+The next steps provided to the customer: 
+ 
+Offered compensation: 
+ 
+Escalated the issue to: 
+ 
+Incident #: 160217-001368
+
